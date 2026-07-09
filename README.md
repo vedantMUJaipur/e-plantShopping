@@ -1,0 +1,2 @@
+# Paradise Nursery Shopping Application
+An online plant shop where users can browse houseplants, add them to a shopping cart, and manage their cart items seamlessly. Built using React and Redux Toolkit.
